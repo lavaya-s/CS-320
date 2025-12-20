@@ -1,19 +1,6 @@
-For this course, you will be submitting one portion of each project to the GitHub repository for your portfolio.
-From Project One, submit the contact service files 
-(Contact.java, ContactService.java, ContactTest.java, ContactServiceTest.java). 
-From Project Two, submit the summary and reflections report. 
-Together, these files showcase your work in software testing, automation, and quality assurance. 
-These files also demonstrate your ability to create unit tests using code to uncover errors, analyze various approaches to software testing based on requirements, and apply appropriate testing strategies to meet requirements.
-
-You will also reflect on the work that you have done in these projects.
-Reflecting is a valuable skill to cement your learning. 
-It also will help add context to refresh your memory when you use your portfolio in the future. 
-Update the README file in your repository and include your answers to each of the questions below. 
-You could include the questions and write a few sentences in response to each one, or you could write a paragraph or two, weaving together all of your answers.
-
-    How can I ensure that my code, program, or software is functional and secure?
-
-    How do I interpret user needs and incorporate them into a program?
-
-    How do I approach designing software?
-
+I can ensure that my code, program, or software is functional and secure by using white box testing to get a good idea of what the program intends and how it will be interpreted by users.
+I can use black box testing to ensure that the programs functionality is not easily broken by the user or other external factors. 
+I would also try to get outside perspectives so i am not being too biased in my work. 
+I interpret user needs and incorporate them into a program by creating psuedocode that encompasses the idea that the user story envelops and then continue to add parameters based on questioning the users needs, the limits of the program, and the users potential input. 
+I approach designing software with an objective attitude. 
+I like to try to keep my code tested through all stages and will try to poke and prod my way through design by creating robust and well thought out unit tests. 
